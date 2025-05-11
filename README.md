@@ -1,14 +1,10 @@
 ﻿# Yume 2kki Variable 44 Range Calculator
 
----
-
 Yume 2kki Variable 44 Range Calculator is a C# program that receives a set of inputs to return all the possible values that Variable #44 can take.
 
 Currently, the program functions only through console, and supports Spanish and English, which can be changed in the beginning of the ```Program.cs``` file in the ```Var44``` folder (English is the default language).
 
 ## Inputs
-
----
 
 As previously stated, this program works only through console. The current admitted inputs are:
 
@@ -22,8 +18,6 @@ https://yume.wiki/2kki/Urotsuki%27s_Dream_Apartments#Downstairs
 https://yume.wiki/2kki/Numeral_Hallways#Variable_#44_divination
 
 ## Planned Updates
-
----
 
 * Clean code for better readability.
 * Add more language support.
