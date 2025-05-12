@@ -6,7 +6,7 @@ public interface IVarView
 {
     SeishonenPainting AskForSeishonenPainting();
 
-    List<int> AskForNumeralPathwaysValues();
+    List<int> AskForNumeralHallwaysValues();
 
     void ShowResults(List<int> results);
 }

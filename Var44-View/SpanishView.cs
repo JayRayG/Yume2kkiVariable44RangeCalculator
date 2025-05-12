@@ -29,9 +29,9 @@ public class SpanishView : IVarView
         throw new ApplicationException();
     }
 
-    public List<int> AskForNumeralPathwaysValues()
+    public List<int> AskForNumeralHallwaysValues()
     {
-        Console.WriteLine("Entrega los valores en Numeral Pathways:");
+        Console.WriteLine("Entrega los valores en Numeral Hallways:");
         Console.WriteLine("(Se puede llegar allí desde Check-Disk Nexus, en la puerta que tiene un número)");
 
         List<int> listOfValues = new List<int>();

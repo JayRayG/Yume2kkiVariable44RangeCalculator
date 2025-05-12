@@ -17,7 +17,7 @@ public class ListOfVariable44ValidValues
     public void ApplyLimitations()
     {
         ApplySeishonenLimitation();
-        ApplyNumeralPathwaysLimitation();
+        ApplyNumeralHallwaysLimitation();
     }
 
     private void ApplySeishonenLimitation()
@@ -50,7 +50,7 @@ public class ListOfVariable44ValidValues
         return min <= value && value <= max;
     }
 
-    private void ApplyNumeralPathwaysLimitation()
+    private void ApplyNumeralHallwaysLimitation()
     {
         switch (_valuesByDirection[0])
         {

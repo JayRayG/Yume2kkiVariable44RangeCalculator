@@ -20,7 +20,7 @@ if (language == 0) {
 try
 {
     SeishonenPainting seishonen = view.AskForSeishonenPainting();
-    List<int> numberValues = view.AskForNumeralPathwaysValues();
+    List<int> numberValues = view.AskForNumeralHallwaysValues();
     ListOfVariable44ValidValues var44Values = new ListOfVariable44ValidValues(seishonen, numberValues);
     var44Values.ApplyLimitations();
     view.ShowResults(var44Values.GetListOfValues());

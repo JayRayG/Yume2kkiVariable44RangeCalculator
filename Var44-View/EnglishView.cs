@@ -29,9 +29,9 @@ public class EnglishView : IVarView
         throw new ApplicationException();
     }
 
-    public List<int> AskForNumeralPathwaysValues()
+    public List<int> AskForNumeralHallwaysValues()
     {
-        Console.WriteLine("Input the values in Numeral Pathways:");
+        Console.WriteLine("Input the values in Numeral Hallways:");
         Console.WriteLine("(You can get there from Check-Disk Nexus, in the door with the number on it)");
 
         List<int> listOfValues = new List<int>();

@@ -9,7 +9,7 @@ Currently, the program functions only through console, and supports Spanish and 
 As previously stated, this program works only through console. The current admitted inputs are:
 
 * Seishonen's Painting: This refers to the painting in Urotsuki's Dream Apartments. The specific painting is chosen by selecting a number from 0 to 5.
-* Numeral Pathways: This refers to the numbers that one can see by the entrance of this world from Check-Disk Nexus. The inputs are received in the following order: Northwest, North, Northeast, West, East, South. If a value doesn't appear, 0 must be inputted instead.
+* Numeral Hallways: This refers to the numbers that one can see by the entrance of this world from Check-Disk Nexus. The inputs are received in the following order: Northwest, North, Northeast, West, East, South. If a value doesn't appear, 0 must be inputted instead.
 
 The values where taken from the following sources:
 
